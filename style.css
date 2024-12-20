@@ -1,0 +1,102 @@
+body {
+    width: 100%;
+    font-family: sans-serif;
+    padding: 0%;
+    font-size: small;
+    margin-left: 20px;
+    border-collapse: collapse;
+}
+
+th,td {
+    border:1px dotted black;
+    text-align: center;
+    padding: 1px 1px 1px 1px;
+    font-size:small;
+}
+
+
+
+table{
+    border-collapse: collapse;
+    border: none;
+    
+}
+
+.time-column {
+   background-color: #FFD966;
+   height: 20px;
+   width: 80px;
+   /* padding: 6px; */
+}
+
+h1 {
+    color: #0078D7;
+}
+
+.no-border-top{
+    border: none;
+}
+
+.no-left-border{
+    border: none;
+}
+
+.date-column {
+    background-color: #c2c2c2;
+}
+
+#organization-plan {
+    background-color: #FFD966;
+    width: 65px;
+    text-align: center;
+}
+
+.email{
+    background-color: #d1d4e4;
+    width: 50px;
+    hepx;
+}
+
+.Design {
+    background-color: #c7f7f2;
+    width: 100px;
+
+}
+
+.Editing {
+    background-color: #fde08a;
+}
+
+.Meeting {
+    background-color: #43B3AE;
+
+}
+
+.Research {
+ background-color: #9cfaf1;
+}
+
+.lunch {
+    background-color: #ececec;
+}
+
+.West {
+    background-color: #43B3AE;
+}
+
+.copy {
+    background-color: #FFC40C;
+    
+}
+
+.Presentation {
+    background-color: #FFC40C;
+}
+
+.Appointment {
+    background-color: #ffeaab;
+}
+
+.Review {
+    background-color: #c2c2c2;
+}
